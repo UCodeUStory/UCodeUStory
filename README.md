@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
     <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=UCodeUStory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-    <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UCodeUStory&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UCodeUStory&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 <!--
 **UCodeUStory/UCodeUStory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
