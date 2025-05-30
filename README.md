@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-    <img height="400px" width="100%" src="https://github-readme-stats.vercel.app/api?username=UCodeUStory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img height="350px" width="100%" src="https://github-readme-stats.vercel.app/api?username=UCodeUStory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
 </div>
 <!--
