@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-    <img height="150px" width="300px" src="https://github-readme-stats.vercel.app/api?username=UCodeUStory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img  width="200px" src="https://github-readme-stats.vercel.app/api?username=UCodeUStory&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     <img height="150px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UCodeUStory&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 <!--
